@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'a684f1f6-8816-4091-9076-821b87448f9b'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://deep-foe8.onrender.com
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
